@@ -8,7 +8,7 @@
  *
  * @author Rodrigo
  */
-public class RadioMain{
+public class RadioMain implements Radio{
     //declaramos atributos.
     private boolean ON;
     private boolean FM;
